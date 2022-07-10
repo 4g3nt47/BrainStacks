@@ -1,6 +1,6 @@
 # BrainStacks
 
-![](/preview.jpg)
+![](/preview.png)
 
 **BrainStacks** is a simple front-end web application built with Svelte. It is used to create flash cards with questions and answers, and can be grouped into many different categories. *BrainStacks* does not have a backend, so all flash cards are stored in the browser of users using *local storage*.
 
