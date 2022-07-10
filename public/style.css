@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+  font-family: verdana;
+}
+
+body{
+  background-color: hsl(184, 30%, 40%);
+  font-size: 16pt;
+}
