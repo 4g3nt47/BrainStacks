@@ -107,12 +107,14 @@
 
   @media screen and (max-width: 780px){
     .flash-card{
+      padding: 10px;
       p.question{
-        font-size: 9pt;
+        font-size: 11pt;
       }
 
       p.answer{
-        font-size: 7pt;
+        padding-top: 10px;
+        font-size: 9pt;
       }
     }
 

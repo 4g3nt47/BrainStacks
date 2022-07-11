@@ -215,7 +215,7 @@
     }
 
     .categories, .categories select{
-      font-size: 8pt;
+      font-size: 10pt;
     }
 
     .categories select{
