@@ -37,7 +37,7 @@
       <FlashCard {category} {flashCard} on:deleteCard={() => deleteCard(flashCard.id)}/>
     </div>
   {:else}
-    <p class="error">No flash cards :(</p>
+    <p class="error">No flash cards.<br> They will show up here once you create them!</p>
   {/each}
   <div class="center">
     <Button id="delete-cat-btn" danger={true} on:click={deleteCategory}>Delete Category</Button>
@@ -55,6 +55,7 @@
   .error{
     grid-column: span 2;
     text-align: center;
+    font-size: 13pt;
   }
 
   .center{
