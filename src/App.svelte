@@ -177,6 +177,7 @@
     color: hsl(216, 77%, 10%);
     font-size: 13pt;
     select{
+      border: none;
       padding: 5px 5px;
       border-radius: 5px;
       background-color: hsl(216, 70%, 15%);
