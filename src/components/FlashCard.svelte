@@ -109,12 +109,12 @@
     .flash-card{
       padding: 10px;
       p.question{
-        font-size: 11pt;
+        font-size: 13pt;
       }
 
       p.answer{
         padding-top: 10px;
-        font-size: 9pt;
+        font-size: 12pt;
       }
     }
 

@@ -42,7 +42,7 @@
 
   @media screen and (max-width: 780px){
     button{
-      font-size: 6pt;
+      font-size: 9pt;
       padding: 1px 5px;
     } 
   }
